@@ -81,10 +81,9 @@ If you prefer a pure‑script flow, `pvc/downstream_eval/binary_linear_prob.py` 
 
 ## Reference results
 
-The included `pvc_predictions.csv` contains 11,172 segments with a PVC prevalence of 4.61% (515 positives). Using the provided backbone and a simple linear probe, the aggregate metrics on that split are:
+The included `pvc_predictions.csv` contains 11,172 synthetic segments with a PVC prevalence of 4.61% (515 positives). Using the provided backbone and a simple linear probe, the aggregate metrics on that split are:
 
 * ROC‑AUC ≈ **0.766**
-* Average Precision ≈ **0.116**
 
 These values reflect a highly imbalanced binary task and a deliberately minimal probe. They serve as a sanity‑check rather than a saturated benchmark.
 
