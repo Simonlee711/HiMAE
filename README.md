@@ -1,4 +1,4 @@
-# HiMAE ICLR Synthetic PVC Example
+# HiMAE - ICLR 2026
 
 Self-supervised masked autoencoding for physiological waveforms with HiMAE for PVC detection. This repository contains a PyTorch/Lightning implementation of a hierarchical 1‑D convolutional MAE (“HiMAE”), a minimal pretraining script, and a reproducible linear‑probe pipeline on 10‑second PPG segments.
 
@@ -99,7 +99,14 @@ The repository is intentionally modular. To adapt to new tasks, point the metada
 
 If this code is useful in your work, please cite the repository. Replace the placeholders as needed.
 
-> included upon acceptance
+```
+@article{lee2025himae,
+  title={HiMAE: Hierarchical Masked Autoencoders Discover Resolution-Specific Structure in Wearable Time Series},
+  author={Lee, Simon A and Tanade, Cyrus and Zhou, Hao and Lee, Juhyeon and Thukral, Megha and Han, Minji and Choi, Rachel and Khan, Md Sazzad Hissain and Lu, Baiying and Gwak, Migyeong and others},
+  journal={arXiv preprint arXiv:2510.25785},
+  year={2025}
+}
+```
 
 ## Acknowledgements
 
