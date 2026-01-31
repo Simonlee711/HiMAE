@@ -113,7 +113,7 @@ The repository is intentionally modular. To adapt to new tasks, point the metada
 
 ## BibTeX
 
-If this code is useful in your work, please cite the repository:
+If this code is useful in your work, please cite our work below:
 
 `ICLR`
 ```
