@@ -1,4 +1,5 @@
 ![python](https://img.shields.io/badge/-Python_3.12-blue?logo=python&logoColor=white)
+[![arXiv](https://img.shields.io/badge/arXiv-2510.25785-red.svg)](https://arxiv.org/abs/2510.25785)
 [![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ulzee/raptor-private/pulls)
 [![license](https://img.shields.io/badge/License-BSD-blue.svg)](https://github.com/Simonlee711/HiMAE/blob/main/LICENSE)
 [![release](https://img.shields.io/badge/Release-v0.1.0-blue.svg)](https://github.com/Simonlee711/HiMAE/releases/tag/v0.1.0)
